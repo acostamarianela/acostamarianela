@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marianela</h1>
 <h3 align="center">A passionate systems student from Argentina.</h3>
 
-- 🌱 I’m currently learning **Node js, Express and React**
 
 - 📫 How to reach me **acostagm6@gmail.com**
 
