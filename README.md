@@ -98,69 +98,9 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
----
 
-## 🔥 Streak Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dracula&hide_border=false" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
-## 💼 Featured Projects
-
-### 🌟 Project 1
-- **Description**: Brief description of your amazing project
-- **Tech Stack**: React, Vite, Docker, Node.js
-- **Features**: List key features
-- [🔗 Live Demo](https://your-project-link.com) | [📁 Repository](https://github.com/yourusername/project)
-
-### 🌟 Project 2
-- **Description**: Another cool project you've worked on
-- **Tech Stack**: Python, Django, MySQL, Docker
-- **Features**: What makes this project special
-- [🔗 Live Demo](https://your-project-link.com) | [📁 Repository](https://github.com/yourusername/project)
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=dracula&hide_border=false" alt="Activity Graph" />
-</div>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" />
-</div>
-
----
-
-<div align="center">
-  <h3>Thanks for visiting my profile! 😊</h3>
-  <p>Feel free to reach out if you want to collaborate on any project or just have a chat about technology!</p>
-  
-  ![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
-</div>
-```
 
 
